@@ -9,7 +9,7 @@ int main() {
     int result = calc.add(1, 50);
     std::cout << result << std::endl;
 
-	// ... (Here you can add code to demonstrate the usage of the Calculator class)
+	
 
     return 0;
 }
