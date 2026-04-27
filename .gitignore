@@ -17,3 +17,10 @@ cmake-build-debug/
 # ׂטלקאסמג³ פאיכט
 *.log
 *.tmp
+
+*.sln
+*.vcxproj
+*.filters
+*.user
+Debug/
+Release/
